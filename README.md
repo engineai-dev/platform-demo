@@ -37,4 +37,4 @@ The dashboard will be deployed to the EngineAI platform and accessible through y
 - **World Bank API**: Free public data (no API key required)
 - **Snowflake**: Processed analytical data
 
-Built with [EngineAI SDK](https://docs.engineai.com/index.html)
+Built with [Engine AI SDK](https://docs.engineai.com/index.html)
